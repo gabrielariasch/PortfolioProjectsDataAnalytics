@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-Hello and welcome! I'm Gabriel, a passionate data analyst with a keen interest in transforming raw data into actionable insights. My expertise lies in leveraging statistical methods, data visualization, and machine learning techniques to uncover trends, solve problems, and drive strategic decision-making.
+Hello and welcome! I'm Gabriel, a passionate data analyst with a keen interest in transforming raw data into actionable insights. My expertise lies in leveraging statistical methods and data visualization techniques to uncover trends, solve problems, and drive strategic decision-making.
 
 In this portfolio, you'll find a collection of my projects that showcase my skills and experiences across various domains. Each project highlights my ability to handle complex datasets, apply advanced analytical techniques, and communicate findings in a clear and impactful manner.
 
