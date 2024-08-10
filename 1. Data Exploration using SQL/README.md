@@ -27,7 +27,7 @@ Data Selection and Filtering: The project selects relevant COVID-19 data, filter
 - **Data Source:** The project assumes that the data is available in a SQL Server database, specifically within the PortfolioProjectCOVID schema. It uses two key tables: CovidDeaths and CovidVaccinations.
 
 # Execution:
-- **SQL Environment:** The SQL scripts should be executed in an environment that supports T-SQL, such as SQL Server Management Studio (SSMS).
+- **SQL Environment:** The SQL scripts should be executed in an environment that supports SQL, such as SQL Server Management Studio (SSMS).
 - **Running Queries:** Each section of the script can be run independently to generate different insights, from basic data selection to complex calculations.
 
 # Output:
