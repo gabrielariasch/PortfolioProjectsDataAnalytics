@@ -36,7 +36,7 @@ Data Selection and Filtering: The project selects relevant COVID-19 data, filter
 # Future Scope
 - **Time-Series Analysis:** Implement more advanced time-series analysis to model and predict future trends in COVID-19 cases and vaccinations.
 - **Regional Comparisons:** Extend the analysis to include more granular regional data, such as states or provinces, to provide deeper insights at a local level.
-- **Advanced Statistical Analysis: Enhance statistical analysis by integrating advanced formulas to improve accuracy and effectiveness, enabling the identification of more patterns, trends, and insights.
+- **Advanced Statistical Analysis:** Enhance statistical analysis by integrating advanced formulas to improve accuracy and effectiveness, enabling the identification of more patterns, trends, and insights.
 
 # Note
 This project provides a strong foundation in SQL for COVID-19 data exploration and analysis. It is designed to be adaptable, allowing for the integration of additional data sources or the extension of existing queries to answer new questions. The methodologies demonstrated here are not only applicable to pandemic data but can also be used for any large-scale data exploration and analysis tasks in various domains.
