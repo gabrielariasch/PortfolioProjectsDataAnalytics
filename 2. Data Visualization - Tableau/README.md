@@ -12,7 +12,7 @@ The data is extracted from the PortfolioProjectCOVID database, specifically from
 
 ## Usage
 - **SQL Execution:** Execute the provided SQL queries to produce the required data extracts.
-- **Copy & Paste Data:** After executing each querie the user must copy the results and paste them into an Excel worksheet. 
+- **Copy & Paste Data:** After executing each query the user must copy the results and paste them into an Excel worksheet. 
 - **Tableau Public Setup:** Import the workbooks into Tableau to create the visualizations.
 - **Interactive Elements:** Leverage Tableau's features to explore various dimensions of the data.
 
