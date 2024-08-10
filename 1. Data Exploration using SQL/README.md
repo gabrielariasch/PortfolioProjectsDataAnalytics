@@ -1,4 +1,4 @@
-Description
+##Description
 This project is a comprehensive data exploration and analysis of COVID-19 data, focusing on key metrics like infection rates, death rates, and vaccination coverage. It uses a variety of SQL techniques to extract, analyze, and visualize data, with the goal of understanding the global impact of the pandemic and the effectiveness of vaccination efforts. The project demonstrates skills in beginner-level SQL queries, data manipulation, and the creation of advanced analytical constructs such as Common Table Expressions (CTEs), Temporary Tables, and Views.
 
 Key Features
